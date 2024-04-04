@@ -1,0 +1,5 @@
+fastapi~=0.110.1
+pandas~=2.2.1
+googlemaps~=4.10.0
+google-generativeai
+uvicorn
